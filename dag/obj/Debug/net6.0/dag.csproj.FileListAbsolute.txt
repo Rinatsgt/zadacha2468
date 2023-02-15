@@ -1,0 +1,15 @@
+C:\uroc1dz\dag\bin\Debug\net6.0\dag.exe
+C:\uroc1dz\dag\bin\Debug\net6.0\dag.deps.json
+C:\uroc1dz\dag\bin\Debug\net6.0\dag.runtimeconfig.json
+C:\uroc1dz\dag\bin\Debug\net6.0\dag.dll
+C:\uroc1dz\dag\bin\Debug\net6.0\dag.pdb
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.csproj.AssemblyReference.cache
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.GeneratedMSBuildEditorConfig.editorconfig
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.AssemblyInfoInputs.cache
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.AssemblyInfo.cs
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.csproj.CoreCompileInputs.cache
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.dll
+C:\uroc1dz\dag\obj\Debug\net6.0\refint\dag.dll
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.pdb
+C:\uroc1dz\dag\obj\Debug\net6.0\dag.genruntimeconfig.cache
+C:\uroc1dz\dag\obj\Debug\net6.0\ref\dag.dll
